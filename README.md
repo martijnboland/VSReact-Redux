@@ -1,5 +1,7 @@
-# VSReact
+# VSReact-Redux
 React TodoMVC app with ASP.NET Web Api backend, developed with Visual Studio.
+
+This is a fork of the [VSReact](https://github.com/martijnboland/VSReact) repo before it was converted to TypeScript and MobX.
 
 The ReactJS frontend app is a modified Redux Devtools TodoMVC example, https://github.com/gaearon/redux-devtools/tree/master/examples/todomvc. 
 
